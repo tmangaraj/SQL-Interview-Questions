@@ -1,6 +1,6 @@
 # SQL-Interview-Questions (Beginner to Advanced)
 
-1. Basic SQL Questions
+# 1. Basic SQL Questions
    
 What is SQL? Explain its uses.
 
@@ -22,7 +22,7 @@ What are constraints in SQL?
 
 What is NULL in SQL? How is it different from 0 or blank?
 
-2. Intermediate SQL Questions
+# 2. Intermediate SQL Questions
 
 What is normalization? Explain 1NF, 2NF, 3NF.
 
@@ -54,7 +54,7 @@ Difference between WHERE and HAVING.
 
 What is ORDER BY? Can we use it with multiple columns?
 
-3. Query-Based Questions
+# 3. Query-Based Questions
 
 Write a query to fetch the second highest salary.
 
@@ -76,7 +76,7 @@ Write a query to find employees who have no manager.
 
 Write a query to find common records between two tables.
 
-4. Advanced SQL Questions
+# 4. Advanced SQL Questions
 
 Explain ACID properties.
 
@@ -108,7 +108,7 @@ What is cardinality in a database?
 
 How does indexing affect SELECT, INSERT, and UPDATE operations?
 
-5. Practical Scenario Questions
+# 5. Practical Scenario Questions
 
 Your query is slow. How do you diagnose and fix it?
 
